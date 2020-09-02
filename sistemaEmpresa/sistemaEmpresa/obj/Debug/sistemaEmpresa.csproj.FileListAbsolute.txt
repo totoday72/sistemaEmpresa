@@ -8,3 +8,4 @@ C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpre
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Principal.resources
