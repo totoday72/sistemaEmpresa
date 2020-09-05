@@ -21,5 +21,29 @@ namespace sistemaEmpresa
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Conexion cn = new Conexion();
+            switch (cn.IniciarSesion(txtuser.Text, txtpass.Text)) {
+                case 0:
+                    MessageBox.Show("Error, la comunicación con la base de datos no pudo ser establecida");
+                    break;
+                case 1:
+                    MessageBox.Show("Error, No se encontro ningun usuario con el nombre: "+ txtuser.Text);
+                    break;
+                case 2:
+                    MessageBox.Show("Error, la contraseña no es correcta vuelva a intentar.");
+                    break;
+                case 3:
+                    
+                    this.Visible = false;
+                    MessageBox.Show("BIENVENIDO " + txtuser.Text + " EN UN MOMENTO SE ABRIRA EL PROGRAMA.");
+                    Principal p = new Principal(this);
+                    p.Show();
+                    p.Visible = true;
+                    break;
+            }
+        }
     }
 }
