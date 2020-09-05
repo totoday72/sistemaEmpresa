@@ -8,3 +8,13 @@ C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpre
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe.config
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.pdb
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csprojResolveAssemblyReference.cache
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Form1.resources
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Principal.resources
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Properties.Resources.resources
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
