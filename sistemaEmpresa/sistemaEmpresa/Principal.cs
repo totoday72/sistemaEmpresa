@@ -12,9 +12,11 @@ namespace sistemaEmpresa
 {
     public partial class Principal : Form
     {
-        public Principal()
+        Form1 f;
+        public Principal(Form1 f)
         {
             InitializeComponent();
+            this.f = f;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -22,8 +24,11 @@ namespace sistemaEmpresa
 
         }
 
-        private void label23_Click(object sender, EventArgs e)
+
+        private void Principal_FormClosed(object sender, FormClosedEventArgs e)
         {
+            f.Visible=true;
+            
 
         }
     }
