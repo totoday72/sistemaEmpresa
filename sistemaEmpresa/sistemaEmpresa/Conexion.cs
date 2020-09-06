@@ -94,14 +94,14 @@ namespace sistemaEmpresa
             try
             {
                 conexionstring.Open();
-                OleDbDataAdapter adaptador = new OleDbDataAdapter("Insert into EMPLEADOS (dpi,nombre,apellido,direccion, fecha_de_nacimiento, telefono, email, fecha_de_contratacion, profesion, puesto_de_trabajo, salario) ('" + dpi + "','" + nombre + "', '" + apellido + "', '" + direccion + "', '" + fecha_nacimiento + "', '" + telefono + "', '" + email + "','" + fecha_contratacion + "', '" + profesion +"','"+puesto_trabajo +"','"+ Salario +"');", conexionstring);
+                OleDbDataAdapter adaptador = new OleDbDataAdapter("Insert into EMPLEADOS (dpi,nombre,apellido,direccion, fecha_de_nacimiento, telefono, email, fecha_de_contratacion, Profesión, puesto_de_trabajo, salario) values ('" + dpi + "','" + nombre + "', '" + apellido + "', '" + direccion + "', '" + fecha_nacimiento + "', '" + telefono + "', '" + email + "','" + fecha_contratacion + "', '" + profesion +"','"+puesto_trabajo +"',"+ Salario +");", conexionstring);
                 adaptador.Fill(tabla);
                 conexionstring.Close();
                 MessageBox.Show("Empleado Creado con exito");
             }
             catch (System.Exception error)
             {
-                MessageBox.Show("Ha habido un error en su conexión, intentelo más tarde");
+                MessageBox.Show("Ha habido un error en su conexión, intentelo más tarde"+error.Message);
             }
 
         }
