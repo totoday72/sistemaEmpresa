@@ -8,6 +8,9 @@ C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpre
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
 C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
+<<<<<<< HEAD
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Principal.resources
+=======
 D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe.config
 D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
 D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
@@ -18,3 +21,4 @@ D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpres
 D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Principal.resources
 D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Properties.Resources.resources
 D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
+>>>>>>> 8eb2c92ed96c3bb2cebd3f4b40c2e30828172736
