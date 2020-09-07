@@ -1,1 +1,24 @@
 c:\users\anibal\documents\visual studio 2015\Projects\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe.config
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe.config
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.pdb
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Form1.resources
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Properties.Resources.resources
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
+<<<<<<< HEAD
+C:\Users\Anibal\Desktop\Nueva carpeta\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Principal.resources
+=======
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe.config
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.exe
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.pdb
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.exe
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\bin\Debug\sistemaEmpresa.pdb
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csprojResolveAssemblyReference.cache
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Form1.resources
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Principal.resources
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.Properties.Resources.resources
+D:\archivos\Backup\Trabajos\sistema2\sistemaEmpresa\sistemaEmpresa\sistemaEmpresa\obj\Debug\sistemaEmpresa.csproj.GenerateResource.Cache
+>>>>>>> 8eb2c92ed96c3bb2cebd3f4b40c2e30828172736
